@@ -1,2 +1,2 @@
 # mlops-for-image-classification
-Incorporating DevOps for DevOps tasks
+Incorporating DevOps for MLOps tasks for Image Classification
